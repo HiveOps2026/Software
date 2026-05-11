@@ -22,4 +22,4 @@ Actualizado Grid de Componentes en Nuevo Lote, más ordenado.
  
 📅 11/05/2026
 
-Agregado timpos personal en bases de datos, más control tiempos.
+Agregado timpos personal en bases de datos, más control tiempos
